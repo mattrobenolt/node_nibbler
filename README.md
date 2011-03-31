@@ -1,6 +1,6 @@
 # node_nibbler
   
-  Original reference: (http://www.tumuski.com/2010/04/nibbler/)
+  Original reference: [http://www.tumuski.com/2010/04/nibbler/](http://www.tumuski.com/2010/04/nibbler/)
   Base32/base64 encode/decode library for Node.
   Compatible with Python's base64 library.
   
