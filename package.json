@@ -1,0 +1,17 @@
+{
+  "name": "nibbler",
+  "description": "base32/base64 encode/decode library. Compatible with Python's base64 library.",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattrobenolt/node_nibbler.git"
+  },
+  "author": "Matt Robenolt/Thomas Peri",
+  "main": "./lib/nibbler",
+  "directories": {
+    "lib": "lib"
+  },
+  "engines": {
+    "node": "*"
+  }
+}
